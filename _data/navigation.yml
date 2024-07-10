@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
 
-  - tilte: "Expertise"
+  - title: "Expertise"
     url: /expertise/
 
   - title: "Experience"
