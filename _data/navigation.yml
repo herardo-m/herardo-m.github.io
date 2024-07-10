@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
 
+  - tilte: "Expertise"
+    url: /expertise/
+
   - title: "Experience"
     url: /experience/
-
-  - tilte: "Services/Expertise"
-    url: /service-expertise/
 
   - title: "Thought Leadership"
     url: /thought-leadership/
