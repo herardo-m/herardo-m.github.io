@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Herardo's Portfolio Site"
 title_separator          : "-"
 name                     : &name "Herardo Martinez"
 description              : &description "Recognized Cybersecurity Leader"
