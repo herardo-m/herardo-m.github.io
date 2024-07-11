@@ -97,15 +97,3 @@ $(document).ready(function(){
   });
 
 });
-
-// When the user scrolls down 100px from the top of the page, show the button
-window.onscroll = function() { scrollFunction() };
-
-function scrollFunction() {
-   if (document.body.scrollTop > 100 || 
-document.documentElement.scrollTop > 100 {
-      document.body.classList.add('scrolled');
-   } else {
-      document.body.classList.remove('scrolled');
-   }
-}
