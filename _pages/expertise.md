@@ -7,7 +7,7 @@ author_profile: true
 Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
 
 <p align="center">
-  <img src="/images/leadership.webp">  
+  <img src="/images/leadership.webp" width="1000" height="500">  
 </p>
 
 **Hover over badges to obtain expertise level definition.**
@@ -19,9 +19,9 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 
 |Domain |Expert Level |
 |-------| :---------: |
-| Vision Setting| ![Expert](https://img.shields.io/badge/Expert-orange)|
-| Inspiring and Motivating| ![Expert](https://img.shields.io/badge/Expert-orange)|
-| Decision Making| ![Expert](https://img.shields.io/badge/Expert-orange)|
+| Vision Setting| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
+| Inspiring and Motivating| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
+| Decision Making| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Adapatability and Innovation| ![Expert](https://img.shields.io/badge/Expert-orange)|
 | Communication| ![Expert](https://img.shields.io/badge/Expert-orange)|
 | Collaboration and Delegation| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
@@ -38,6 +38,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
 ## Cybersecurity
+
 |Domain |Expert Level | Tools|
 |-------| :---------: | -----|
 | Security and Risk Management| ![Expert](https://img.shields.io/badge/Expert-orange)| Archer - Jira - ServiceNow ITSM - Microsoft Tools (e.g., Excel, PowerPoints, Word) |
@@ -52,17 +53,20 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
 
 ## Data Science
+
 |Domain |Expert Level | Tools|
 |-------| :---------: | -----|
 | Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
 
 ## Development
+
 |Domain |Expert Level | Tools|
 |-------| :---------: | -----|
 | Web| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| HTML - CSS - JavaScript
 | Git| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Git - GitHub
 
 ## Infrastructure
+
 |Domain |Expert Level | Tools|
 |-------| :---------: | -----|
 | Operating Systems| ![Intermediate](https://img.shields.io/badge/Advanced-yellow)| Linux - Windows - Apple
