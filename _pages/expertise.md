@@ -27,6 +27,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Collaboration and Delegation| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Measuring Success| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 
+
 <p align="center">
   <img src="/images/skills.png" width=1000 height=400>  
 </p>
