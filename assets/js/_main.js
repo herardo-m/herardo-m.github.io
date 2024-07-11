@@ -102,9 +102,9 @@ $(document).ready(function(){
 window.onscroll = function() { scrollFunction() };
 
 function scrollFunction() {
-   if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 {
+   if (document.body.scrollTop > 100 || 
+document.documentElement.scrollTop > 100 {
       document.body.classList.add('scrolled');
    } else {
       document.body.classList.remove('scrolled');
-   }
-}
+}};
