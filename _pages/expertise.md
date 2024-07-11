@@ -7,7 +7,7 @@ author_profile: true
 Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
 
 <p align="center">
-  <img src="/images/leadership.webp" width=1000 height=200>  
+  <img src="/images/leadership.webp">  
 </p>
 
 **Hover over badges to obtain expertise level definition.**
@@ -29,17 +29,15 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 
 
 <p align="center">
-  <img src="/images/skills.png" width=1000 height=400>  
+  <img src="/images/skills.png">  
 </p>
-
-**Hover over badges to obtain expertise level definition.**
 
 ![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
 ![Intermediate](https://img.shields.io/badge/Intermediate-green 'Learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.') 
 ![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
-
+## Cybersecurity
 |Domain |Expert Level | Tools|
 |-------| :---------: | -----|
 | Security and Risk Management| ![Expert](https://img.shields.io/badge/Expert-orange)| Archer - Jira - ServiceNow ITSM - Microsoft Tools (e.g., Excel, PowerPoints, Word) |
@@ -52,3 +50,21 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Security Operations| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Splunk - Intellitactis - Wazuh |
 | Security Culture and Awareness| ![Advanced](https://img.shields.io/badge/Advanced-yellow)| KnowBe4 |
 | Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
+
+## Data Science
+|Domain |Expert Level | Tools|
+|-------| :---------: | -----|
+| Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
+
+## Development
+|Domain |Expert Level | Tools|
+|-------| :---------: | -----|
+| Web| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| HTML - CSS - JavaScript
+| Git| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Git - GitHub
+
+## Infrastructure
+|Domain |Expert Level | Tools|
+|-------| :---------: | -----|
+| Operating Systems| ![Intermediate](https://img.shields.io/badge/Advanced-yellow)| Linux - Windows - Apple
+| Virtualization| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| VMWare Fusion - Virtual Box
+| Containers| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Docker Engine - Docker Compose - Docker Hub
