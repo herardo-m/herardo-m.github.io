@@ -14,5 +14,4 @@ Here is a summary of Herardo's most recent roles:
 
 * Prior to the Silicon Valley High-Tech organization, Herardo served as a Product Security Director for a global conglomerate (e.g., industrial, healthcare, aviation). Herardo led the Cloud Infrastructure and Platform Security Engineering team who was accountable and responsible for delivering cybersecurity products and services to product the industrial internet of things platform. 
 
-### To learn more, please connect with me. 
-⬅️
+### To learn more, please contact me and I would be happy to have a conversation.
