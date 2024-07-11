@@ -50,7 +50,6 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Security Assessments and Testing| ![Advanced](https://img.shields.io/badge/Advanced-yellow)| Kali Linux (e.g., NMAP, BurpSuite, Metasploit) - Qualys and OpenVAS-Greenbone Vulnerability Scanners |
 | Security Operations| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Splunk - Intellitactis - Wazuh |
 | Security Culture and Awareness| ![Advanced](https://img.shields.io/badge/Advanced-yellow)| KnowBe4 |
-| Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
 
 ## Data Science
 
