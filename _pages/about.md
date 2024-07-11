@@ -14,4 +14,4 @@ Herardo is a seasoned information security leader. As a trusted advisor to execu
 
 Herardo's information security knowledge is founded on a 24 year IT and information security career. A sought after thought leader, Herardo has been a member of advisory boards and has been a featured speaker at IT and cybersecurity conferences.  
 
-“Bridging leadership and technical expertise in cybersecurity for over 20 years”
+**“Bridging leadership and technical expertise in cybersecurity for over 20 years”**
