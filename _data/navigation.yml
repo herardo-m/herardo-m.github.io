@@ -3,11 +3,11 @@ main:
   - title: ""
     url: /
 
-  - title: "Expertise"
-    url: /expertise/
-
   - title: "Experience"
     url: /experience/
+
+  - title: "Expertise"
+    url: /expertise/
 
   - title: "Thought Leadership"
     url: /thought-leadership/
