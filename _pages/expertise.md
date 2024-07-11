@@ -4,6 +4,8 @@ title: ""
 author_profile: true
 ---
 
+Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
+
 **Hover over badges to obtain expertise level definition.**
 
 ![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
