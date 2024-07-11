@@ -17,7 +17,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 ![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
-|Domain |Expert Level |
+|Domain |Expertise Level |
 |-------| :---------: |
 | Vision Setting| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Inspiring and Motivating| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
@@ -39,7 +39,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 
 ## Cybersecurity
 
-|Domain |Expert Level | Tools|
+|Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Security and Risk Management| ![Expert](https://img.shields.io/badge/Expert-orange)| Archer - Jira - ServiceNow ITSM - Microsoft Tools (e.g., Excel, PowerPoints, Word) |
 | Security Architecture and Engineering| ![Advanced](https://img.shields.io/badge/Advanced-yellow)| Microsoft Threat Modeling Tool - OWASP Threat Dragon - Microsoft Visio |
@@ -54,20 +54,20 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 
 ## Data Science
 
-|Domain |Expert Level | Tools|
+|Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
 
 ## Development
 
-|Domain |Expert Level | Tools|
+|Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Web| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| HTML - CSS - JavaScript
 | Git| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Git - GitHub
 
 ## Infrastructure
 
-|Domain |Expert Level | Tools|
+|Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Operating Systems| ![Intermediate](https://img.shields.io/badge/Advanced-yellow)| Linux - Windows - Apple
 | Virtualization| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| VMWare Fusion - Virtual Box
