@@ -6,16 +6,16 @@ author_profile: true
 
 Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
 
+<p align="center">
+  <img src="/images/leadership.webp" width=1000 height=300>  
+</p>
+
 **Hover over badges to obtain expertise level definition.**
 
 ![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
 ![Intermediate](https://img.shields.io/badge/Intermediate-green 'Learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.') 
 ![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
-
-<p align="center">
-  <img src="/images/leadership.webp" width=1000 height=300>  
-</p>
 
 |Domain |Expert Level |
 |-------| :---------: |
@@ -28,9 +28,15 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Measuring Success| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 
 <p align="center">
-  <img src="/images/skills.jpg" width=1000 height=400>  
+  <img src="/images/skills.png" width=1000 height=400>  
 </p>
 
+**Hover over badges to obtain expertise level definition.**
+
+![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
+![Intermediate](https://img.shields.io/badge/Intermediate-green 'Learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.') 
+![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
+![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
 
 |Domain |Expert Level | Tools|
