@@ -12,7 +12,7 @@ author_profile: true
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
 <p align="center">
-  <img src="/images/leadership.webp" width=1000 height=400>  
+  <img src="/images/leadership.webp" width=1000 height=300>  
 </p>
 
 |Domain |Expert Level |
