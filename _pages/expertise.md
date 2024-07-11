@@ -4,15 +4,32 @@ title: ""
 author_profile: true
 ---
 
-![Novice](https://img.shields.io/badge/Novice-blue)
-![Novice](https://img.shields.io/badge/Novice-blue)
-
-"Hover over badge to see expert level definitions."
+**Hover over badges to obtain expertise level definition.**
 
 ![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
 ![Intermediate](https://img.shields.io/badge/Intermediate-green 'Learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.') 
 ![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
+
+<p align="center">
+  <img src="/images/leadership.webp" width=1000 height=400>  
+</p>
+
+|Domain |Expert Level |
+|-------| :---------: |
+| Vision Setting| ![Expert](https://img.shields.io/badge/Expert-orange)|
+| Inspiring and Motivating| ![Expert](https://img.shields.io/badge/Expert-orange)|
+| Decision Making| ![Expert](https://img.shields.io/badge/Expert-orange)|
+| Adapatability and Innovation| ![Expert](https://img.shields.io/badge/Expert-orange)|
+| Communication| ![Expert](https://img.shields.io/badge/Expert-orange)|
+| Collaboration and Delegation| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
+| Measuring Success| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
+
+<p align="center">
+  <img src="/images/skills.jpg" width=1000 height=400>  
+</p>
+
+
 
 |Domain |Expert Level | Tools|
 |-------| :---------: | -----|
