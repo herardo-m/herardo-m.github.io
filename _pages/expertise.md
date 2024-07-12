@@ -10,7 +10,7 @@ author_profile: true
 Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
 
 <p align="center">
-  <img src="/images/leadership.webp" width="1000" height="500">  
+  <img src="/images/leadership.webp" width="1000" height="300">  
 </p>
 
 **Hover over badges to obtain expertise level definition.**
@@ -20,7 +20,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 ![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
-|Domain |Expertise Level |
+|Leadership Skills |Expertise Level |
 |-------| :---------: |
 | Vision Setting| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Inspiring and Motivating| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
