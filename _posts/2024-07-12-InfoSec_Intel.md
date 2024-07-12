@@ -35,5 +35,27 @@ This comprehensive intelligence strategy enables us to anticipate challenges, op
 
 ## Methdology:
 
-My approach is to adopt the data science methodology outlined by John Rollins of IBM to leverage start to leverage computer models in performing some of the analytics required to support the advanced information security intelligence program.
+The approach is to adopt the data science methodology outlined by John Rollins of IBM: 
 
+&nbsp;
+![data science](/images/data%20science%20methodology.png)
+
+By leveraging the data science methdology, we can leverage models to understand, analyze, predict or even presribe activities to the advanced information security intelligence program. Here are the questions the data science methdology aims to answer:
+
+From problem to approach (Business Understanding > Analytic Approach):
+1. What si the problem you are trying to solve?
+2. How can you use data to answer the question?
+
+Working with the data (Data Requirements > Data Collection > Data Understanding > Data Preparation):
+3. What data do you need to answer the question?
+4. Where is the data coming from and how will you get it?
+5. Is the data that you collected representative of the problem to be solved?
+6. What additional work is required to manipulate and work with the data?
+
+Deriving the answer (Modeling > Evaluation > Deployment > Feedback):
+7. In what way can the data be visualized to get to the answer that is required?
+8. Does the model used really answer the initial question or does it need to be adjusted?
+9. Can you put the model into practice?
+10. Can you get constructive feedback into answering the question?
+
+These questions help drive us through the data science methodology and gets us one step closer to maturing the advanced information security intelligence program.
