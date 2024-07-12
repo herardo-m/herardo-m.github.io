@@ -3,10 +3,12 @@ title: "Information Security Intelligence"
 date: 2024-07-12
 permalink: /posts/2024/07/12/InfoSec_Intel/
 tags:
-  - Data Classification
-  - Data Science
-  - Cyber Intelligence
+  - Data Science Methodology
+  - Advanced Information Security Intelligence Program
 ---
+
+I am writing this blog to capture my thoughts on leveraging the Data Science Methodology from John Rollins of IBM to build an Advanced Information Security Intelligence Program.
+
 
 ## Intelligence: 
 
