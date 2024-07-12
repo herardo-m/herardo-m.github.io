@@ -5,6 +5,9 @@ author_profile: true
 redirect_from:
   - /about/
 ---
+<!-- Back-to-Top -->
+<a class="top-link hide" href="#">↑</a>
+<a name="top"></a>
 
 # Herardo Martinez
 
