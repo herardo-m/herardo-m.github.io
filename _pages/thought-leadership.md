@@ -4,7 +4,7 @@ permalink: /thought-leadership/
 title: ""
 author_profile: true
 redirect_from:
-  - /year-archive/
+  - /year-archive.html/
 ---
 
 ## Test
