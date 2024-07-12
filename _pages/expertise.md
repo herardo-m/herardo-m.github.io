@@ -9,6 +9,7 @@ author_profile: true
 
 Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
 
+### Leadership
 <p align="center">
   <img src="/images/leadership.jpg" width="1000" height="300">  
 </p>
@@ -30,6 +31,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Collaboration and Delegation| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Measuring Success| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 
+### Cybersecurity Frameworks and Compliance
 <p align="center">
   <img src="/images/frameworks-compliance.jpg" width="1000" height="500">  
 </p>
@@ -57,6 +59,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 |California Consumer Privacy Act (CCPA)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
 |Payment Card Industry (PCI) - Data Security Standards (DSS)| ![Expert](https://img.shields.io/badge/Expert-orange) | 
 
+### Technical Skills
 <p align="center">
   <img src="/images/skills.png">  
 </p>
