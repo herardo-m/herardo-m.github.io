@@ -92,6 +92,6 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 * APIsec University (API Security Fundamentals, Penetration Testing, OWASP API Top 10, Documentation, and PCI Compliance)
 * IBM Data Science Methodology
 * Agile Project Management - Jira Cloud
-* Leadership (Critical Thinking, Solving Business Problems, and Decision-Making Stratetgies)
+* Leadership (Critical Thinking, Solving Business Problems, and Decision-Making Strategies)
 * Finance and Accounting Foundations
 * Artificial Intelligence and Machine Learning Foundations   
