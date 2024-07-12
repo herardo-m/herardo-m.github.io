@@ -72,6 +72,8 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Virtualization| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| VMWare Fusion - Virtual Box
 | Containers| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Docker Engine - Docker Compose - Docker Hub
 
+&nbsp;
+
 # Industry Professional Certifications
 
 * ISACA Certified Information Security Manager (CISM)
@@ -79,6 +81,8 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 * Cisco Certified Design Associate (CCDA)
 * Cisco Certified Network Professional (CCNP)
 * Cisco Certified Network Associate (CCNA) 
+
+&nbsp;
 
 # Additional Certifications
 
