@@ -30,6 +30,32 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Collaboration and Delegation| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Measuring Success| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 
+<p align="center">
+  <img src="/images/frameworks-compliance.jpg" width="1000" height="500">  
+</p>
+
+![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
+![Intermediate](https://img.shields.io/badge/Intermediate-green 'Learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.') 
+![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
+![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
+
+|Cybersecurity and Compliance Frameworks | Expertise Level |
+|--------------------------------------- | :-------------: | 
+|NIST - Risk Management Framework (RMF)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+|NIST - Cybersecurity Framework (CSF)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+|ISO/IEC - 27001/27002, 27017, and 27018| ![Expert](https://img.shields.io/badge/Expert-orange) |
+|Center for Internet Security (CIS) - The 18 Critical Security Controls| ![Expert](https://img.shields.io/badge/Expert-orange) |
+|Unified Compliance Framework (UCF)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+
+|Compliance Certification and Attestations | Expertise Level|
+|----------------------------------------- | :------------: | 
+|Sarbanes-Oxley Act (IT Controls)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+|FedRAMP| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+|ISO/IEC 27001, 27017, 27018| ![Expert](https://img.shields.io/badge/Expert-orange) |
+|SOC 2 Type II| ![Intermediate](https://img.shields.io/badge/Intermediate-green) |
+|European Union (EU) Data Protection| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+|California Consumer Privacy Act (CCPA)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
+|Payment Card Industry (PCI) - Data Security Standards (DSS)| ![Expert](https://img.shields.io/badge/Expert-orange) | 
 
 <p align="center">
   <img src="/images/skills.png">  
