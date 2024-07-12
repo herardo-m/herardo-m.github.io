@@ -1,14 +1,15 @@
 # main links links
 main:
-  - title: ""
-    url: /
-
+ 
   - title: "Experience"
     url: /experience/
 
   - title: "Expertise"
     url: /expertise/
 
+  - title: "Professional Growth"
+    url: /professional-growth/
+    
   - title: "Thought Leadership"
     url: /thought-leadership/
 
