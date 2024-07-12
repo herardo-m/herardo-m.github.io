@@ -9,7 +9,7 @@ author_profile: true
 
 Herardo's expertise is validated by ISACA's Certified Information Security Manager (CISM) and EC-Council's Certified Ethical Hacker (CEH) certifications. However, what truly distinguishes him is his ability to blend robust leadership skills with extensive practical knowledge, allowing him to navigate and excel in the complex landscape of cybersecurity.
 
-## Leadership
+## Leadership:
 <p align="center">
   <img src="/images/leadership.jpg" width="1000" height="300">  
 </p>
@@ -31,7 +31,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Collaboration and Delegation| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 | Measuring Success| ![Advanced](https://img.shields.io/badge/Advanced-yellow)|
 
-## Cybersecurity Frameworks and Compliance
+## Cybersecurity Frameworks and Compliance:
 <p align="center">
   <img src="/images/frameworks-compliance.jpg" width="1000" height="500">  
 </p>
@@ -59,7 +59,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 |California Consumer Privacy Act (CCPA)| ![Advanced](https://img.shields.io/badge/Advanced-yellow) |
 |Payment Card Industry (PCI) - Data Security Standards (DSS)| ![Expert](https://img.shields.io/badge/Expert-orange) | 
 
-## Technical Skills
+## Technical Skills:
 <p align="center">
   <img src="/images/skills.png">  
 </p>
@@ -69,7 +69,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 ![Advanced](https://img.shields.io/badge/Advanced-yellow 'Professionals have practical experience in their field and have the training required to succeed in the job they have trained for. For example, members of upper management are advanced learners.')
 ![Expert](https://img.shields.io/badge/Expert-orange 'Professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field.')
 
-### Cybersecurity
+### Cybersecurity:
 
 |Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
@@ -83,20 +83,20 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Security Operations| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Splunk - Intellitactis - Wazuh |
 | Security Culture and Awareness| ![Advanced](https://img.shields.io/badge/Advanced-yellow)| KnowBe4 |
 
-### Data Science
+### Data Science:
 
 |Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Data Science| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Jupyter Notebook - Python
 
-### Development
+### Development:
 
 |Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Web| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| HTML - CSS - JavaScript
 | Git| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Git - GitHub - Github Pages
 
-### Infrastructure
+### Infrastructure:
 
 |Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
@@ -105,14 +105,14 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Containers| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Docker Engine - Docker Compose - Docker Hub
 
 &nbsp;
-## Industry Professional Certifications
+## Industry Professional Certifications:
 * ISACA Certified Information Security Manager (CISM)
 * EC-Council Certified Ethical Hacker (CEH)
 * Cisco Certified Design Associate (CCDA)
 * Cisco Certified Network Professional (CCNP)
 * Cisco Certified Network Associate (CCNA) 
 
-## Additional Educational Certificates
+## Additional Educational Certificates:
 * APIsec University (API Security Fundamentals, API Penetration Testing, OWASP API Top 10, API Documentation, and API PCI Compliance)
 * IBM Data Science Methodology
 * Agile Project Management - Jira Cloud
@@ -120,7 +120,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 * Finance and Accounting Foundations
 * Artificial Intelligence and Machine Learning Foundations   
 
-## Professional Affiliations
+## Professional Affiliations:
 * Information Systems Audit and Control Associations (ISACA)
 * Open Worldwide Application Security Project (OWASP)
 * Cloud Security Alliance (CSA)
