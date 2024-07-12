@@ -62,7 +62,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 |Domain |Expertise Level | Tools|
 |-------| :---------: | -----|
 | Web| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| HTML - CSS - JavaScript
-| Git| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Git - GitHub
+| Git| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Git - GitHub - Github Pages
 
 ## Infrastructure
 
@@ -71,3 +71,20 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Operating Systems| ![Intermediate](https://img.shields.io/badge/Advanced-yellow)| Linux - Windows - Apple
 | Virtualization| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| VMWare Fusion - Virtual Box
 | Containers| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Docker Engine - Docker Compose - Docker Hub
+
+# Industry Professional Certifications
+
+* ISACA Certified Information Security Manager (CISM)
+* EC-Council Certified Ethical Hacker (CEH)
+* Cisco Certified Design Associate (CCDA)
+* Cisco Certified Network Professional (CCNP)
+* Cisco Certified Network Associate (CCNA) 
+
+# Additional Certifications
+
+* APIsec University (API Security Fundamentals, Penetration Testing, OWASP API Top 10, Documentation, and PCI Compliance)
+* IBM Data Science Methodology
+* Agile Project Management - Jira Cloud
+* Leadership (Critical Thinking, Solving Business Problems, and Decision-Making Stratetgies)
+* Finance and Accounting Foundations
+* Artificial Intelligence and Machine Learning Foundations   
