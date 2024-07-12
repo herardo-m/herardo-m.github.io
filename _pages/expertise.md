@@ -92,3 +92,6 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 * Leadership (Critical Thinking, Solving Business Problems, and Decision-Making Stratetgies)
 * Finance and Accounting Foundations
 * Artificial Intelligence and Machine Learning Foundations   
+
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
