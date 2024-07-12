@@ -3,6 +3,9 @@ permalink: /experience/
 title: ""
 author_profile: true
 --- 
+<!-- Back-to-Top -->
+<a class="top-link hide" href="#">↑</a>
+<a name="top"></a>
 
 Herardo’s comprehensive knowledge base, honed skills, and extensive experience provide invaluable insights to organizations seeking to design and implement secure, resilient, and compliant global infrastructures and applications, while safeguarding business-critical operations and sensitive data assets.
 
