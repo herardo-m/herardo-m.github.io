@@ -7,7 +7,7 @@ tags:
   - Advanced Information Security Intelligence Program
 ---
 
-I am writing this blog to capture my thoughts on leveraging the Data Science Methodology from John Rollins of IBM to build an Advanced Information Security Intelligence Program.
+This blog captures thoughts on leveraging the Data Science Methodology from John Rollins of IBM to build an Advanced Information Security Intelligence Program.
 
 
 ## Intelligence: 
