@@ -1,5 +1,5 @@
 ---
-title: "Information Security Intelligence"
+title: "Building an Advanced Information Security Intelligence Program"
 date: 2024-07-12
 permalink: /posts/2024/07/12/InfoSec_Intel/
 tags:
