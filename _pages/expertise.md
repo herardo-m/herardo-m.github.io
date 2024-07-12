@@ -75,22 +75,23 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 | Virtualization| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| VMWare Fusion - Virtual Box
 | Containers| ![Intermediate](https://img.shields.io/badge/Intermediate-green)| Docker Engine - Docker Compose - Docker Hub
 
-# Industry Professional Certifications
+&nbsp;
+## Industry Professional Certifications
 * ISACA Certified Information Security Manager (CISM)
 * EC-Council Certified Ethical Hacker (CEH)
 * Cisco Certified Design Associate (CCDA)
 * Cisco Certified Network Professional (CCNP)
 * Cisco Certified Network Associate (CCNA) 
 
-# Additional Certifications
-* APIsec University (API Security Fundamentals, Penetration Testing, OWASP API Top 10, Documentation, and PCI Compliance)
+## Additional Educational Certificates
+* APIsec University (API Security Fundamentals, API Penetration Testing, OWASP API Top 10, API Documentation, and API PCI Compliance)
 * IBM Data Science Methodology
 * Agile Project Management - Jira Cloud
 * Leadership (Critical Thinking, Solving Business Problems, and Decision-Making Strategies)
 * Finance and Accounting Foundations
 * Artificial Intelligence and Machine Learning Foundations   
 
-# Professional Affiliations
+## Professional Affiliations
 * Information Systems Audit and Control Associations (ISACA)
 * Open Worldwide Application Security Project (OWASP)
 * Cloud Security Alliance (CSA)
