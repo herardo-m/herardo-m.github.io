@@ -8,5 +8,5 @@ author_profile: true
 <a name="top"></a>
 
 <p align="center">
-  <img src="/images/development.jpeg">  
+  <img src="/images/development.png">  
 </p>
