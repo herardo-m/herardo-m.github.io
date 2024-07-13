@@ -7,7 +7,7 @@ author_profile: true
 <a class="top-link hide" href="#">↑</a>
 <a name="top"></a>
 
-Herardo’s comprehensive knowledge base, honed skills, and extensive experience provide invaluable insights to organizations seeking to design and implement secure, resilient, and compliant global infrastructures and applications, while safeguarding business-critical operations and sensitive data assets.
+Herardo’s comprehensive knowledge base, advanced skills, and extensive experience provide invaluable insights to organizations seeking to design and implement secure, resilient, and compliant global infrastructures and applications, while safeguarding business-critical operations and sensitive data assets.
 
 Here is a summary of Herardo's most recent roles:
 
@@ -17,7 +17,7 @@ Here is a summary of Herardo's most recent roles:
 
 * Prior to the Silicon Valley High-Tech organization, Herardo served as a Product Security Director for a global conglomerate (e.g., industrial, healthcare, aviation). Herardo led the Cloud Infrastructure and Platform Security Engineering team who was accountable and responsible for delivering cybersecurity products and services to product the industrial internet of things platform. 
 
-## Career Highlights
+## Career Highlights:
 * Spearheaded the development of a comprehensive security framework that encompassed policy formulation, risk assessment, development of security programs, and incident response protocols.
 * Built and led high performing teams (exceeding operational targets) through strategic talent acquisition, fostering a culture of continuous learning, and championing industry best practices.
 * Consistently mobilized organizational transformation by orchestrating the seamless integration of cutting-edge cybersecurity technologies and fostering strategic collaboration among IT, security, and business stakeholders.
