@@ -120,7 +120,9 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
 * Finance and Accounting Foundations
 * Artificial Intelligence and Machine Learning Foundations   
 
-## Professional Affiliations:
+## Professional Affiliations and Communities:
 * Information Systems Audit and Control Associations (ISACA)
 * Open Worldwide Application Security Project (OWASP)
 * Cloud Security Alliance (CSA)
+* Latino Corporate Directors Association (LCDA)
+* Artificial Intelligence Accelerator Institute (AIAI) Community
