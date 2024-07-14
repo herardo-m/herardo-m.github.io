@@ -14,7 +14,7 @@ Herardo's expertise is validated by ISACA's Certified Information Security Manag
   <img src="/images/leadership.jpg" width="1000" height="300">  
 </p>
 
-**Hover over badges to obtain expertise level definition.**
+**Hover over badges to obtain expertise level definition (if you're on a mobile device, please see resources page).**
 
 ![Novice](https://img.shields.io/badge/Novice-blue 'Learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.')
 ![Intermediate](https://img.shields.io/badge/Intermediate-green 'Learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.') 
