@@ -11,7 +11,7 @@ redirect_from:
 
 # Herardo Martinez
 
-## Risk Management | Program Development & Management | Architecture | Engineering
+### Risk Management | Program Development & Management | Architecture | Engineering
 
 Herardo is a seasoned information security leader. As a trusted advisor to executive management teams, Herardo has developed strategic roadmaps and has spearheaded the development, optimization, and management of global enterprise information security and GRC programs across diverse sectors, including logistics and shipping, business process outsourcing, finance, operational technology, and high-tech industries. 
 
