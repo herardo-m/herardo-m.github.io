@@ -23,7 +23,7 @@ Here is a summary of Herardo's most recent roles:
 * Consistently mobilized organizational transformation by orchestrating the seamless integration of cutting-edge cybersecurity technologies and fostering strategic collaboration among IT, security, and business stakeholders.
 * Ability to translate complex technical concepts into actionable business strategy to enable organizations to enhance their security posture while minimizing operational disruptions.
 * Built and led Product Security Engineering team to deliver a state-of-the-art Industrial hybrid cloud PaaS solution, leveraging a mashup of commercial, cloud, and open-source tools (e.g., AWS, CASB, ASM, NGFW, BRO, Suricata).
-* Designed, developed, and enhanced information security programs (e.g., TVM, IAM, SSDLC, AWS Cloud Security, Infrastructure Security, Cryptography/KMS, Endpoint Security, BCP/DR) to delivery secure business processes and enhance technical implementations (e.g., integrations, automation).
+* Designed, developed, and enhanced information security programs (e.g., TVM, Security Incident Response/Crisis Management, IAM, SSDLC, AWS Cloud Security, Infrastructure Security, Cryptography/KMS, Endpoint Security, BCP/DR) to delivery secure business processes and enhance technical implementations (e.g., integrations, automation).
 * Optimized Governance, Risk, and Compliance (GRC) programs to obtain (ISO/IEC 27017, ISO/IEC 27018, SOC2 Type II, PCI/DSS) and to recertify (FedRAMP+ and SOX) against IT and Cyber
 certifications and attestations.
 * Delivered comprehensive IT and Cyber Executive dashboards and Board reports (e.g., KPIs, KRIs, RAMs).
