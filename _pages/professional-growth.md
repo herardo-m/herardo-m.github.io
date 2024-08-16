@@ -12,6 +12,6 @@ author_profile: true
 </p>
 
 ## Professional Growth:
-Herardo is currently pursuing a Bachelor of Science degree in Cybersecurity and Information Assurance (target is Summer 2025). In addition to the Bachelor of Science degree, Herardo is also pursuing the EC-Council Certified Ethical Hacker (CEH) practical exam and the IBM Data Science Professional certificate.
-
-Strategically, the Bachelor of Science degree will further support his foundational knowledge in cybersecurity and information assurance. The journey on becoming a CEH Master (knowledge + practical certifications) is enhancing his ethical hacking and threat intelligence skills by leveraging some of the same techniques and tools used by adversaries to discover, enumerate, exploit, and compromise target systems. The journey to obtain the IBM Data Science Professional certificate is providing him with knowledge of the Data Science Methodology, development process, machine learning and artificial intelligence models, and how to practically apply them to provide data insights and solve business problems.
+Herardo is currently pursuing the EC-Council Certified Ethical Hacker (CEH) Master Certification and the IBM Data Science Professional Certificate.
+* The journey on becoming a CEH Master (knowledge + practical certifications) is enhancing his ethical hacking and threat intelligence skills by leveraging some of the same techniques and tools used by adversaries to discover, enumerate, exploit, and compromise target systems. 
+* The journey on obtain the IBM Data Science Professional Certificate is providing him with deep knowledge of the Data Science Methodology, hands-on Python development, machine learning and artificial intelligence models, and how to practically apply them to provide data insights and solve business problems.
